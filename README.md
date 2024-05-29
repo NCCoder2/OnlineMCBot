@@ -1,4 +1,5 @@
 # Minecraft KeepAlive Bot
+This is a Minecraft KeepAlive Bot in which running this code will allow a bot to join your minecraft server (must be cracked) and will allow it to stay on 24/7!
 
 
 ## Prerequisites
